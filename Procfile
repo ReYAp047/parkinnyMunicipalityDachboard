@@ -1,0 +1,1 @@
+web: gunicorn municipaliteDashboard.wsgi --log-file -
